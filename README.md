@@ -63,7 +63,7 @@ a("Deleted: $n, Not deleted: $n2");
 History Log
 ------------------
     
-- 1.0.0 -- 2018-02-22
+- 1.0.0 -- 2018-03-09
 
     - initial commit
 
