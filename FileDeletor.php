@@ -1,7 +1,7 @@
 <?php
 
 
-namespace FileDeletor;
+namespace Ling\FileDeletor;
 
 
 class FileDeletor
